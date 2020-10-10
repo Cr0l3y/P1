@@ -1,0 +1,11 @@
+FROM debian
+
+MAINTAINER willian <wildom741@gmail.com>
+
+RUN apt-get update
+
+RUNapt-get install apache2
+
+
+
+
